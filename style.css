@@ -1,6 +1,6 @@
 @font-face {
     font-family:'Kyiv Sans';
-    src: url('/fonts/KyivTypeSans.woff2') format('woff2');
+    src: url('./fonts/KyivTypeSans.woff2') format('woff2');
     font-weight: 0 1000;
     font-display:swap;
 }
